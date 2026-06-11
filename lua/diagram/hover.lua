@@ -149,7 +149,7 @@ M.show_diagram_hover = function(diagram, integrations, renderer_options)
       with_virtual_padding = true,
       inline = true,
       x = 0,
-      y = 5, -- Start after the header text
+      y = 4, -- Start after the header text
     })
 
     if image then
